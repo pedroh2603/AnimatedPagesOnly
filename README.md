@@ -1,6 +1,5 @@
 # LoginPages
-Author: Pedro H. S. Pires <br/>
-Email: pedropires2603@gmail.com
+### Author: Pedro H. S. Pires <br/>Email: pedropires2603@gmail.com
 
 
 Hello, welcome to my Login Pages projects to train my Front End development skills
@@ -23,4 +22,4 @@ Projects inspired by YouTube videos:
   
   1. Projects inspired by the DarkCode channel
     a. Login page 1:
-      ! 
+      ![login-page-1_byDarkCode](/imgs/login-page-1_byDarkCode)
