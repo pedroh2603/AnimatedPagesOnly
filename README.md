@@ -11,7 +11,6 @@ This repository ir divided into:
 <br/>
 <br/>
 <br/>
-<br/>
 
 #### Projects inspired by pinterest website<br/>
   I haven't yet<br/><br/>
