@@ -8,18 +8,18 @@ This repository ir divided into:
   1. Projects taken from login pages of screens taken from the pinterest website.
   2. Own projects, designed and executed by me
   3. Projects inspired by YouTube videos (all projects have link and name of the original author)
-
-
-
-
-Projects inspired by pinterest website
-  I haven't yet
+<br/>
+<br/>
+<br/>
+<br/>
+Projects inspired by pinterest website <br/>
+  I haven't yet<br/>
   
-Own projects:
-  I haven't yet
+Own projects:<br/>
+  I haven't yet<br/>
 
-Projects inspired by YouTube videos:
-  
+Projects inspired by YouTube videos:<br/>
+
 1. Projects inspired by the DarkCode channel <br/>
   a. Login page 1:
     ![login-page-1_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byDarkCode.PNG)
