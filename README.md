@@ -25,3 +25,8 @@ Projects inspired by YouTube videos:
       ![login-page-1_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byDarkCode.PNG)  
         
         Functionalities
+        I- The button changes the color when the mouse passes over
+        II- when a field is being edited, it changes color and increases the size
+    
+    b. Login page 2: <br/>
+      ![login-page-2_byDarkCode](
