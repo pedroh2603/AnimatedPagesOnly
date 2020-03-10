@@ -9,5 +9,3 @@ This repository it's divided in:
   1. Projects inspired in login pages withdrawals from real screens, from the website pinterest.
   2. Own projects, designed and executed by me
   3. Projects inspired in the YouTube videos (all projects have link and name of the original author)
-  
-  
