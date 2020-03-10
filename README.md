@@ -12,13 +12,13 @@ This repository ir divided into:
 <br/>
 <br/>
 <br/>
-Projects inspired by pinterest website <br/>
+#### Projects inspired by pinterest website <br/>
   I haven't yet<br/><br/>
   
-Own projects:<br/>
+#### Own projects:<br/>
   I haven't yet<br/><br/>
 
-Projects inspired by YouTube videos:<br/><br/>
+#### Projects inspired by YouTube videos:<br/>
 1. Projects inspired by the DarkCode channel <br/>
   a. Login page 1:
     ![login-page-1_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byDarkCode.PNG)
