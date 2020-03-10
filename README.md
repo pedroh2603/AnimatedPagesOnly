@@ -1,5 +1,5 @@
 # LoginPages
-### Author: Pedro Henrique S. Pires
+### Author: Pedro H. S. Pires
 ### Email: pedropires2603@gmail.com
 
 
