@@ -20,15 +20,15 @@ This repository ir divided into:
 
 #### Projects inspired by YouTube videos:<br/>
 
-1. Projects inspired by the DarkCode channel <br/>  
-  a. Login page 1:
+1. Projects inspired by the DarkCode channel: http://bit.ly/3aPT01H <br/>  
+  a. Login page 1: https://youtu.be/HV7DtH3J2PU
     ![login-page-1_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byDarkCode.PNG)<br/>
   Functionalities <br/>
     I- The button changes the color when the mouse passes over <br/>
     II- when a field is being edited, it changes color and increases the size <br/>
     <br/>
     <br/>
-  b. Login page 2:
+  b. Login page 2: https://youtu.be/ooc6f1w6Mzg
     ![login-page-2_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-2_byDarkCode.PNG?raw=true)<br/>
   Functionalities <br/>
     I- The button changes the color when the mouse passes over <br/>
