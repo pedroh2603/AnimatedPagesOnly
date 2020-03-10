@@ -30,7 +30,7 @@ This repository ir divided into:
     <br/>
     <br/>
   b. Login page 2:
-    ![login-page-2_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-2_byDarkCode.PNG)
+    ![login-page-2_byDarkCode]()
     
   Functionalities <br/>
     I- The button changes the color when the mouse passes over <br/>
