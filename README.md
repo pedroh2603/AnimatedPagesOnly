@@ -29,7 +29,7 @@ Projects inspired by YouTube videos:
     I- The button changes the color when the mouse passes over <br/>
     II- when a field is being edited, it changes color and increases the size <br/>
     
-  b. Login page 2: <br/>
-    ![login-page-2_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-2_byDarkCode.PNG) <br/>
+  b. Login page 2:
+    ![login-page-2_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-2_byDarkCode.PNG)
     
    
