@@ -1,6 +1,6 @@
 # LoginPages
-Author: Pedro Henrique S. Pires
-Email: pedropires2603@gmail.com
+### Author: Pedro Henrique S. Pires
+### Email: pedropires2603@gmail.com
 
 
 Hello, welcome to my projects of Login Pages to train my skills in Front-End development
