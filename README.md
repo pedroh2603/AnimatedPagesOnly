@@ -19,8 +19,8 @@ This repository ir divided into:
   I haven't yet<br/><br/>
 
 #### Projects inspired by YouTube videos:<br/>
-1. Projects inspired by the DarkCode channel <br/>
-  
+
+1. Projects inspired by the DarkCode channel <br/>  
   a. Login page 1:
     ![login-page-1_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byDarkCode.PNG)
     
@@ -29,8 +29,7 @@ This repository ir divided into:
     II- when a field is being edited, it changes color and increases the size <br/>
     <br/>
     <br/>
-    <br/>
-  
+
   b. Login page 2:
     ![login-page-2_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-2_byDarkCode.PNG?raw=true)
     
