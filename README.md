@@ -22,4 +22,6 @@ Projects inspired by YouTube videos:
   
   1. Projects inspired by the DarkCode channel <br/>
     a. Login page 1: <br/>
-      ![login-page-1_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byDarkCode.PNG)
+      ![login-page-1_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byDarkCode.PNG)  
+        
+        Functionalities
