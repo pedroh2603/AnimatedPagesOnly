@@ -37,7 +37,13 @@ This repository ir divided into:
 2. Projects inspired by the TrueCoder channel: http://bit.ly/38L8qm4 <br/>
   a. Login page 1: https://youtu.be/t-EMinSz_Tk
     ![login-page-1_byTrueCoder](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byTrueCoder.PNG)<br/>
-  Functionalites <br/>
+  Functionalities <br/>
     I- while the form is in evidence, the placeholder is on top of what is being typed. If nothing is entered, the placeholder returns to its original place. <br/>
-    II- When the mouse passes over the "login" button, it performs a gradient change animation.<br/>
+    II- When the mouse passes over the "login" button, it performs a gradient change animation.<br/><br/>
     
+
+3. Projects inpired by the Easy Tutoriais channel:  <br/>
+  a. Login page 1: 
+    ![login-page-1_byEasyTutoriais](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byEasyTutoriais.PNG)<br/>
+  Functionalities <br/>
+    I- The button changes the color when the mouse passes over <br/><br/>
