@@ -20,7 +20,7 @@ This repository ir divided into:
 
 #### Projects inspired by YouTube videos:<br/>
 
-1. Projects inspired by the DarkCode channel: http://bit.ly/3aPT01H <br/>  
+1. Projects inspired by the DarkCode channel: http://bit.ly/3aPT01H <br/>
   a. Login page 1: https://youtu.be/HV7DtH3J2PU
     ![login-page-1_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byDarkCode.PNG)<br/>
   Functionalities <br/>
