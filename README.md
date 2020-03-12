@@ -36,4 +36,8 @@ This repository ir divided into:
    
 2. Projects inspired by the TrueCoder channel: http://bit.ly/38L8qm4 <br/>
   a. Login page 1: https://youtu.be/t-EMinSz_Tk
-    ![login-page-1_byTrueCoder]()
+    ![login-page-1_byTrueCoder](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byTrueCoder.PNG)<br/>
+  Functionalites <br/>
+    I- while the form is in evidence, the placeholder is on top of what is being typed. If nothing is entered, the placeholder returns to its original place. <br/>
+    II- When the mouse passes over the "enter" button, it performs a gradient change animation.<br/>
+    
