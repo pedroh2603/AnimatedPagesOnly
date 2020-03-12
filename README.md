@@ -3,6 +3,7 @@
 
 
 Hello, welcome to my Login Pages projects to train my Front End development skills
+These pages are only front end and have no back end integration
 
 This repository ir divided into:
   1. Projects taken from login pages of screens taken from the pinterest website.
