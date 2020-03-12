@@ -34,6 +34,7 @@ This repository ir divided into:
     I- The button changes the color when the mouse passes over <br/>
     
    
+<br/>
 2. Projects inspired by the TrueCoder channel: http://bit.ly/38L8qm4 <br/>
   a. Login page 1: https://youtu.be/t-EMinSz_Tk
     ![login-page-1_byTrueCoder](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byTrueCoder.PNG)<br/>
