@@ -31,10 +31,9 @@ This repository ir divided into:
   b. Login page 2: https://youtu.be/ooc6f1w6Mzg
     ![login-page-2_byDarkCode](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-2_byDarkCode.PNG?raw=true)<br/>
   Functionalities <br/>
-    I- The button changes the color when the mouse passes over <br/>
+    I- The button changes the color when the mouse passes over <br/><br/>
     
    
-<br/>
 2. Projects inspired by the TrueCoder channel: http://bit.ly/38L8qm4 <br/>
   a. Login page 1: https://youtu.be/t-EMinSz_Tk
     ![login-page-1_byTrueCoder](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byTrueCoder.PNG)<br/>
