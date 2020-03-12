@@ -39,5 +39,5 @@ This repository ir divided into:
     ![login-page-1_byTrueCoder](https://github.com/pedroh2603/LoginPages/blob/master/imgs/login-page-1_byTrueCoder.PNG)<br/>
   Functionalites <br/>
     I- while the form is in evidence, the placeholder is on top of what is being typed. If nothing is entered, the placeholder returns to its original place. <br/>
-    II- When the mouse passes over the "enter" button, it performs a gradient change animation.<br/>
+    II- When the mouse passes over the "login" button, it performs a gradient change animation.<br/>
     
