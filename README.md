@@ -2,7 +2,7 @@
 ### Author: Pedro H. S. Pires <br/>Email: pedropires2603@gmail.com
 
 
-Hello, welcome to my Login Pages projects to train my Front End development skills
+Hello, welcome to my Login Pages projects to train my Front End development skills<br/>
 These pages are only front end and have no back end integration
 
 This repository ir divided into:
